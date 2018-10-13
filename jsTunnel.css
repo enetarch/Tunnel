@@ -1,0 +1,26 @@
+canvas
+{
+	border : 1px solid black;
+	width : 100%;
+	height : 100%;
+}
+
+#map
+{
+	display : inline-block;
+	overflow : scrollxy;
+
+
+    display: inline-block;
+    overflow: scroll;
+    width: 49%;
+    // height: 100px;
+}
+
+#tunnel
+{
+    display: inline-block;
+    overflow: none;
+    width: 49%;
+    // height: 100px;
+}
